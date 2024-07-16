@@ -1,0 +1,15 @@
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/bin/Debug/net7.0/Application.deps.json
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/bin/Debug/net7.0/Application.dll
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/bin/Debug/net7.0/Application.pdb
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/bin/Debug/net7.0/Domain.dll
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/bin/Debug/net7.0/Domain.pdb
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/obj/Debug/net7.0/Application.dll
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/obj/Debug/net7.0/Application.pdb
+/Users/rhonnelcordova/RiderProjects/Apartment-Billing-Api/Application/obj/Debug/net7.0/ref/Application.dll
